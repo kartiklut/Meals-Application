@@ -1,6 +1,6 @@
-# meals_application
+# Meals-Application
 
-A new Flutter application.
+A new Flutter application using which
 
 ## Getting Started
 
