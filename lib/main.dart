@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:meals_application/screens/meals_details_screen.dart';
+import './screens/meals_details_screen.dart';
 import 'screens/categories_screen.dart';
 import 'widgets/category_items.dart';
 import 'screens/category_meals_screen.dart';
