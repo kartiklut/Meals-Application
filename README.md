@@ -1,6 +1,6 @@
 # Meals-Application
 
-A new Flutter application using which we can find recipes of different 
+A new Flutter application using which we can find recipes of different continents.
 
 ## Getting Started
 
