@@ -51,7 +51,7 @@ class MealsItem extends StatelessWidget {
   }
 
   void onMealClick(BuildContext ctx) {
-    Navigator.of(ctx).pushNamed(MealsDetailsScreen.routeName, arguments: id);
+    Navigator.of(ctx).pushNamed(MealsDetailsScreen.routeName, arguments: title);
   }
 
   @override
